@@ -39,3 +39,11 @@ body
     font-size: 20px;
 
 }
+
+footer h4
+{
+    text-align: center;
+    background: darkblue;
+    color: white;
+    padding: 3%;
+}
